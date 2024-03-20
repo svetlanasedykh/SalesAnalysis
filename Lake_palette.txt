@@ -1,0 +1,16 @@
+{
+    "name": "Lake",
+    "dataColors": ["#519cd5", "#3a6c89", "#5084a6", "#2c506a", "#7a97b1", "#688eac", "#2f6084", "#2e5a79", "#497e9d"],
+    "foreground": "#080808",
+    "background": "#FFFFFF",
+    "tableAccent": "#2f6084",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "dataColors": {
+                    "*" : ["#2f6084", "#3a6c89", "#5084a6", "#2c506a", "#7a97b1", "#688eac", "#519cd5", "#2e5a79", "#497e9d"]
+                }
+            }
+        }
+    }
+}
